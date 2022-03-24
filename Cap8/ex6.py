@@ -1,3 +1,4 @@
+
 frases = input()
 msg = ""
 for frase in frases.split("."):
